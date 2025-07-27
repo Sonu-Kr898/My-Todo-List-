@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+My Todo-List is an application that stores various tasks, we can add , delete and can mark the task as completed by this application. Firstly if we want to add any task than we need to write the type of task in the input form and click on the add button. After that if we want to mark the task as completed we need to click on the circle left to the added task and for deletion of the task click on bin logo.
